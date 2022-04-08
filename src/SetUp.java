@@ -18,11 +18,5 @@ public class SetUp {
 
   // Nastya made changes
 
-    // new Nastya's change 4/7
-
-
-
-
+  // new Nastya's change 4/7
 }
-
-
