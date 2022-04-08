@@ -3,5 +3,7 @@ public class BugFinder {
 
     // smoke test was success no errors found
 
+
     //two bugs were found in the branch
+
 }
