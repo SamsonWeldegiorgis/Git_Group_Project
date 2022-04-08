@@ -1,6 +1,11 @@
 public class SetUp {
-  
-  // Setting up project for everyone
+    // Setting up project for everyone
+
+    // sam made a branch and edited
+
+    // Sam made second edition
+}
+// Make me happy !
 
   // hanna made a branch and edited this file
 
@@ -18,6 +23,15 @@ public class SetUp {
 
   // Nastya made changes
 
+
+  // new Nastya's change 4/7
+
+
+
+    // Lima  made some changes
+
   // newest update 4/7!!!!!
 
+
 }
+
