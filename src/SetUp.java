@@ -2,6 +2,7 @@ public class SetUp {
     // Setting up project for everyone
 
 
+
     //Hi there
 
     // How are U
@@ -15,7 +16,7 @@ public class SetUp {
 
 
 
-=======
+
     // sam made a branch and edited
 
     // Sam made second edition
@@ -33,21 +34,24 @@ public class SetUp {
 
   // Sam made second edition
 
-  // Sam made third edition
+    // hanna made a branch and edited this file
 
-  // Sam made forth edition
+    // made some more changes
+  
+    // sam made a branch and edited
 
-  // Nastya made changes
-
-
-  // new Nastya's change 4/7
-
+    // Sam made second edition
 
 
-    // Lima  made some changes
+    // Sam made third edition
 
-  // newest update 4/7!!!!!
+    // Sam made forth edition
 
+    // hanna
 
+    // hanna
+
+    // another one
+
+    // comment 11987654
 }
-
