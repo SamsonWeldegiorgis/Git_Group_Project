@@ -18,5 +18,13 @@ public class NewGitPractice {
 
     // Bugs were fixed
 
+    // New comments we added
+
+    // new update added
+
+    // adding new comments
+
+
+
 
 }
